@@ -23,7 +23,7 @@ require "vendor/autoload.php";
      
      
      echo '<script>alert("Mail Sent Successfully");
-     window.location.replace("http://localhost/portfolio2/");</script>';
+     window.location.replace("https://divyasoniworld.github.io/Portfolio-divyadarshan/");</script>';
 
 
     
